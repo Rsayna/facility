@@ -354,7 +354,7 @@ background-image: linear-gradient(315deg, #7fcec5 0%, #14557b 74%);
      background: url(../images/Untitled.png);
      background-repeat: no-repeat;
      min-height: 900px;
-     display: flex;
+    display: flex;
      justify-content: center;
      align-content: center;
      align-items: center;
