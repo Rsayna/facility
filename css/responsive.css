@@ -75,6 +75,14 @@
 
     }
 
+    .footer .titlepage {
+        text-align: center;
+    }
+
+    .footer .cont {
+        text-align: center;
+    }
+
     .text-bg h1 {
         font-size: 33px;
         line-height: 40px;
@@ -117,7 +125,7 @@
         margin-bottom: 30px;
     }
     .footer {
-        margin-top: 90px;
+        margin-top: 50px;
     }
     .main_form {
         margin-top: 0;
@@ -171,7 +179,7 @@
         float: left;
     }
     .banner_main{
-        min-height: 300px;
+        min-height: 500px;
        display: flex;
        justify-content: center;
        /* background-size: 100% 70%; */
@@ -188,8 +196,16 @@
         font-size: 26px;
         line-height: 35px;
     }
+    .footer .titlepage {
+       text-align: center;
+    }
+    .footer .cont {
+        text-align: center;
+    }
+    
+
     .titlepage h2 {
-        padding-top: 100px;
+        padding-top: 50;
         font-size: 33px;
         line-height: 44px;
     }
@@ -212,7 +228,7 @@
         margin-bottom: 30px;
     }
     .footer {
-        margin-top: 90px;
+        margin-top: 50px;
     }
     .main_form {
         margin-top: 25px;
@@ -236,7 +252,7 @@
         margin-top: -45px;
     }
     .navigation .navbar-collapse {
-        background: #000;
+        background: rgb(218, 19, 19);
         padding: 20px;
         margin-top: 62px;
         position: absolute;
