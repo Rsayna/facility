@@ -99,7 +99,7 @@
         padding-top: 0;
     }
     .titlepage h2 {
-        padding-top: 90px;
+        padding-top: 100px;
         font-size: 34px;
         line-height: 41px;
     }
@@ -152,7 +152,7 @@
     .navigation.navbar-dark .navbar-toggler {
         border: inherit;
         float: right;
-        padding-top: 6px;
+        padding-top: 20px;
     }
     .navigation.navbar-dark .navbar-nav .nav-link:focus, .navigation.navbar-dark .navbar-nav .nav-link:hover {
 
@@ -197,15 +197,18 @@
         line-height: 35px;
     }
     .footer .titlepage {
+        margin-top: 20px;
        text-align: center;
     }
     .footer .cont {
         text-align: center;
     }
     
+   
+    
 
     .titlepage h2 {
-        padding-top: 50;
+        padding-top: 100;
         font-size: 33px;
         line-height: 44px;
     }
@@ -234,6 +237,7 @@
         margin-top: 25px;
         padding: 50px 20px 40px 20px;
     }
+    /* /change */
     .choose .choose_box {
         padding-top: 60;
     }
@@ -249,10 +253,10 @@
         display: inherit !important;
         padding: 0;
         width: 100%;
-        margin-top: -45px;
+        margin-top: -60px;
     }
     .navigation .navbar-collapse {
-        background: rgb(218, 19, 19);
+        background: rgb(17, 17, 17);
         padding: 20px;
         margin-top: 62px;
         position: absolute;
@@ -272,6 +276,7 @@
     .navigation.navbar-dark .navbar-toggler {
         float: right;
         margin-right: 2px;
+     
         border: inherit;
     }
     .testimonial_box {
